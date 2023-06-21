@@ -6,4 +6,6 @@ url: https://shepthesheep1.github.io/HTB-KB
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+plugins:
+  - jekyll-remote-theme
 color_scheme: dark
