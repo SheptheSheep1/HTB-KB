@@ -1,8 +1,10 @@
 title: "HTB Module Docs"
 description: Docs for HTB Academy modules I am working on!
-remote-theme: just-the-docs
+theme: just-the-docs
 
 url: https://shepthesheep1.github.io/HTB-KB
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+plugins:
+  - jekyll-remote-theme
