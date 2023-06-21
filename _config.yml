@@ -1,6 +1,6 @@
-title: HTB Module Docs
+title: "HTB Module Docs"
 description: Docs for HTB Academy modules I am working on!
-theme: just-the-docs/just-the-docs
+remote-theme: just-the-docs
 
 url: https://shepthesheep1.github.io/HTB-KB
 
