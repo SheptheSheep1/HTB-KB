@@ -1,1 +1,1 @@
-### Based on Just-the-Docs theme for jekyll
+### Based on the Just-the-Docs theme for jekyll
