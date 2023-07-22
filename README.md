@@ -1,1 +1,1 @@
-### Based on the Just-the-Docs theme for jekyll
+### Knowledge base based on the Just-the-Docs theme for jekyll
